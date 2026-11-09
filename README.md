@@ -8,6 +8,8 @@ Create a silent MP4 with alternating depth-based camera movement from a Premiere
 
 Go to the [test release](https://github.com/sridevshenoyy/depth-motion/releases/tag/v0.2.0-test) and download the installer for your computer. Each installer is roughly 400 MB; rendering needs additional free disk space.
 
+
+[Installation warning instructions for Mac and Windows](INSTALLATION-WARNINGS.md).
 ### Mac
 
 - Tested configuration: Apple silicon (M1 or newer), macOS 26 or newer. Intel Macs and older macOS versions have not been tested.
